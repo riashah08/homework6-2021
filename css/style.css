@@ -93,7 +93,7 @@ header{
         position:sticky;
         top:0;
         flex-direction: row;
-
+        margin-bottom:100px;
         
     }
     .nav_links{
